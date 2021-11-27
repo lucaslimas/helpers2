@@ -16,7 +16,7 @@ Criar um CLI aumenta a performace do desenvolvimento de qualquer aplicação.
 
 # Criação de CLI
 
-Utilizaremos uma biblioteca para auxiliar a criação de CLI chamdo **gluegun**
+Utilizaremos uma biblioteca para auxiliar a criação de CLI chamado [**Gluegun**](https://infinitered.github.io/gluegun/#/)
 
 ```shell
 yarn global add gluegun
