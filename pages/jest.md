@@ -25,3 +25,8 @@ São testes realizados em apenas um trecho do nosso sistema, uma única parte. N
 São testes realizado para testar o fluxo completo, desde a chamada no controller até o retorno do controller para a rota. Testas as chamadas das API externas como serviços de e-mail, conexões com banco de dados etc.
 
 
+# Projeto Exemplo
+
+Repositório [Helpers2-Jest](https://github.com/lucaslimas/helpers2-jest)
+
+
