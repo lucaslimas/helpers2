@@ -1,4 +1,6 @@
-# Documento de Ajuda by Lucas Lima
+# Documento de Ajuda
+
+Essa documentação visa ajudar pessoas a utilizar as ferramentas do dia-a-dia de um programador de sistema e tudo que está por volta de uma stack javascript.
 
 ## Configurações Iniciais
 

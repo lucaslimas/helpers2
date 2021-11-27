@@ -1,4 +1,4 @@
-[Voltar](/Readme.md)
+[Voltar](/readme.md)
 
 # Typescript
 
@@ -183,9 +183,11 @@ Lembrando que para executar os arquivos compilados, deverá executar o comando d
 node dist/server.js
 ```
 
+# Projeto Exemplo
+
+Acesse o repositório [helpers2-starter](https://github.com/lucaslimas/helpers2-starter).
 
 # Próximos Passos
 
-- [Instalando ESLint](/pages/eslint_prettier.md)
-- [Organizando os imports](/pages/import_organizer.md)
+- [Instalando ESLint e Prettier](/pages/eslint_prettier.md)
 - [Controllers](/pages/controllers.md)
