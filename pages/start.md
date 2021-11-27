@@ -190,4 +190,3 @@ Acesse o repositório [helpers2-starter](https://github.com/lucaslimas/helpers2-
 # Próximos Passos
 
 - [Instalando ESLint e Prettier](/pages/eslint_prettier.md)
-- [Controllers](/pages/controllers.md)
