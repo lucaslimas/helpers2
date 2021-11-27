@@ -28,6 +28,7 @@ yarn add express
 ```
 
 Na raiz do projeto criar a pasta **src** e dentro da pasta criar o arquivo **server.ts**.
+> Arquivo server deverá estar com a extensão .ts
 
 ```ts
 import express from 'express';
