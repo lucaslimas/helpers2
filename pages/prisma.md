@@ -2,7 +2,7 @@
 
 Referência [Rocketseat](https://www.youtube.com/watch?v=oWKuJnrceS8)
 
-## Instalando oPrisma
+## Instalando o Prisma
 
 ```
 yarn add prisma -D
