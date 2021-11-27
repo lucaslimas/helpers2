@@ -1,6 +1,6 @@
 # ESLint e Prettier
 
-Esse é responsavél pela **padronização do código** dentro projeto, isso porquê o javascript permite que seja utilizado no código diversas formas de escritas, como por exemplo, string podem ser aspas duplas ou aspas simples, final de limha pode ter ou não ponto e vírgula, o salto de linha, etc. Com Eslint podemos automatizar e facilitar o padrão de código do projeto, assim todos os desenvolvedores irão escrever códigos com as mesmas configurações de escrita.
+São responsavéis pela **padronização do código** dentro projeto, isso porquê o javascript permite que seja utilizado no código diversas formas de escritas, como por exemplo, string podem ser aspas duplas ou aspas simples, final de limha pode ter ou não ponto e vírgula, o salto de linha, etc. Com Eslint podemos automatizar e facilitar o padrão de código do projeto, assim todos os desenvolvedores irão escrever códigos com as mesmas configurações de escrita.
 
 Referência [Rocketseat](https://www.notion.so/ESLint-e-Prettier-Trilha-Node-js-d3f3ef576e7f45dfbbde5c25fa662779#eaf6e8bdcabc4d809cdae302e29750da)
 
