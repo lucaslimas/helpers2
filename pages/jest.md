@@ -25,6 +25,69 @@ São testes realizados em apenas um trecho do nosso sistema, uma única parte. N
 São testes realizado para testar o fluxo completo, desde a chamada no controller até o retorno do controller para a rota. Testas as chamadas das API externas como serviços de e-mail, conexões com banco de dados etc.
 
 
+# Iniciando com JEST
+
+Adiconar o pacote JEST como depedência de desenvolvimento
+
+```shell
+yarn add jest -D
+```
+
+Caso esteja usando typescript
+
+```shell
+yarn add @types/jest -D
+```
+
+Agora iniciamos o jest no projeto 
+
+```shell
+yarn jest --init 
+```
+
+Ele aparecer algumas perguntas para configurar o ambiente
+
+> The following questions will help Jest to create a suitable configuration for your project
+
+Would you like to use Jest when running "test" script in "package.json"? › (Y/n)
+- Y
+
+Would you like to use Typescript for the configuration file? › (y/N)
+- Y
+
+Choose the test environment that will be used for testing › - Use arrow-keys. Return to submit.
+- <ins>**node**</ins>
+- jsdom (browser-like)
+
+Do you want Jest to add coverage reports? › (y/N)
+- N
+
+> Coverage reports é o relatório que mostra o quanto de testes foi realizado na aplicação, mostra também o percentual de cobertura dos testes
+
+Which provider should be used to instrument code for coverage? › - Use arrow-keys. Return to submit.
+- <ins>**v8**</ins>
+- babel
+
+Automatically clear mock calls and instances between every test? › (y/N)
+- Y
+
+Será gerado um arquivo de configuração do JEST na raiz do projeto com o nome **jest.config.ts**, com todas as informações o jest irá utilizar para realizar os testes nas aplicações.
+
+Caso esteja trabalhando com typscript, instalar o novo pacote **ts-jest** como dependência de desenvolvimento.
+
+```shell
+yarn add ts-jest -D
+```
+
+Alterar as seguintes propriedades do arquivo **jest.config.ts**
+
+- preset: alterar de undefined para ts-jest
+- testMath: descomentar a propriedade
+- bail: descomentar e atribuir o valor **true**
+
+> Em cima de cada propriedade está informando o que cada um faz.
+
+
 # Projeto Exemplo
 
 Repositório [Helpers2-Jest](https://github.com/lucaslimas/helpers2-jest)
