@@ -8,4 +8,5 @@ Essa documentação visa ajudar pessoas a utilizar as ferramentas do dia-a-dia d
 - [Instalando o ESLint e Pritter](/pages/eslint_prettier.md)
 - [Criando CLI Customizada](/pages/cli_create.md)
 - [Criando Testes na Aplicação com JEST](/pages/jest.md)
+- [Injetando Dependência com TSyringe](/pages/tsyringe.md)
 - [Prisma](/pages/prisma.md)
